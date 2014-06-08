@@ -1,0 +1,4 @@
+BuildingDataProducts_Assignment
+===============================
+
+This is Shiny App Data Product deployed to share an App that display probablity of getting diabetes using logistic regression model. 
